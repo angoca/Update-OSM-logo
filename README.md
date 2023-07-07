@@ -9,3 +9,5 @@ This shows the steps to update the OSM Logo.
 * 6: Recreated from scratch and all elements copied from the previous file. The file is much smaller than the first one (From 174714 to 95993).
 
 It also includes the differences between each step except for the 6 which was recreated.
+
+![New logo](6-Public-images-osm_logo.svg)

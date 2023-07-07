@@ -10,4 +10,6 @@ This shows the steps to update the OSM Logo.
 
 It also includes the differences between each step except for the 6 which was recreated.
 
-![New logo](6-Public-images-osm_logo.svg)
+New logo ![New logo](6-Public-images-osm_logo.svg)
+
+Old logo ![Old logo](1-Public-images-osm_logo.svg)

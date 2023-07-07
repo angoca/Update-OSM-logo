@@ -1,0 +1,12 @@
+11c11
+<    inkscape:export-filename="/home/fred/bla.png"
+---
+>    inkscape:export-filename="/home/openstreetmap/Public-images-osm_logo.png"
+25c25
+<      id="title3594">OpenStreetMap logo 2011</title>
+---
+>      id="title3594">OpenStreetMap logo 2023</title>
+2690c2690
+<         <dc:title>OpenStreetMap logo 2011</dc:title>
+---
+>         <dc:title>OpenStreetMap logo 2023</dc:title>

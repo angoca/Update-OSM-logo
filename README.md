@@ -6,5 +6,6 @@ This shows the steps to update the OSM Logo.
 * 3: Removed unnecessary elements.
 * 4: Binary numbers changed to represent OSM letters in binary.
 * 5: Change the export directory and the title.
-* 6: Recreated from scratch and copy all elements from the previous file. The file is much smaller than the first one (From 174714 to 95993).
+* 6: Recreated from scratch and all elements copied from the previous file. The file is much smaller than the first one (From 174714 to 95993).
 
+It also includes the differences between each step except for the 6 which was recreated.

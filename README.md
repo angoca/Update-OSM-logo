@@ -22,9 +22,10 @@ This is the description of each step, starting from the original one taken from 
 * 5: Changed the export directory and the title.
 * 6: Recreated from scratch and all elements copied from the current file and pasted into the new one. The resulting file is much smaller than the first one (From 174714 to 95993).
 * 7: Fixed second binary layer to use "OSM" letters (As described in point 4). Fixed typo in "Magnifying Galss" to "Magnifying Glass"
+* 8: Formatted using `prettier` and `@prettier/plugin-xml`
 
 It also includes the differences between each step except for the 6, which was recreated.
 
-New logo ![New logo](7-Public-images-osm_logo.svg)
+New logo ![New logo](8-Public-images-osm_logo.svg)
 
 Old logo ![Old logo](1-Public-images-osm_logo.svg)
